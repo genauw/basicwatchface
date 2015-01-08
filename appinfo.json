@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "genauw@gmail.com",
+    "longName": "Tut 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "Tut 1",
+    "uuid": "41dba333-ca10-422f-967c-506e47fef0e9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
